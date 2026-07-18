@@ -84,7 +84,7 @@ GitHub: https://github.com/smritisingh09/
 
 LinkedIn: https://www.linkedin.com/in/smriti-singh-589603298/
 
-Portfolio: *(Add your live website URL after deployment)*
+Portfolio: https://smritisingh09.github.io/Portfolio/
 
 ---
 
